@@ -1,4 +1,5 @@
 # 💬 Sentiment Intelligence — Multi-Class Sentiment Analyzer
+https://sentiment-analyzer-real-world-fnw4p5thuvdvkdnudg9ghk.streamlit.app/
 
 A realistic, end-to-end NLP machine-learning project built from the **supplied `Tweets.csv` dataset**.
 
